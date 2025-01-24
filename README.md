@@ -1,34 +1,37 @@
-COMPILADO NO VS2005
+
+# Perfect World Client-Source 1.5.3
+
+### Visual Studio 2005 required 
 
 
-Versão 1.5.2 ~ 1.5.5 customizada
+## Customized version 1.5.2 ~ 1.5.5
 
 
-Para saber das adições basta pesquisar por "alien" pelo codigo no projeto
+To find out about the additions just search for “alien” in the project code
 
-Adições & Modificações:
-1- Mostra a lista de clãs ao apertar G(sem cla)/J(com cla) (tem que consertar algumas descrições)
+Additions & Modifications:
+1- Shows the list of clans when pressing G(without cla)/J(with cla) (need to fix some descriptions)
 
-2- Feito grande parte somente para testes do Transmutador, está comentado /**/, basta remover
+2- Made a large part only for Transmuter tests, it is commented /**/, just remove it
 
-3- Adicionado contador de buffs/debuffs/skills
+3- Added buff/debuff/skill counter
 
-4- Adicionado acesso rápido à funções no inventário
+4- Added quick access to inventory functions
 
-5- Feito uma pequena parte da Paleta da Fortuna
+5- Made a small part of the Fortune Palette
 
-6- Editado o cubo do destino, comecei a fazer estilo Praça Mágica (MIR4), mas parei por preguiça
+6- Edited the cube of destiny, I started to make it like Magic Square (MIR4), but I stopped due to laziness
 
-7- Adicionado icone para descrição de drops de mobs (tentei fazer para aparecer também os itens vendidos na lojinha caso fosse player, mas parei)
+7- Added icon for describing mob drops (I tried to make it so that items sold in the shop would also appear if I were a player, but I stopped)
 
-8- Adicionado luz de identificação de missões nos mobs/materiais/minerais/ervas
+8- Added mission identification light on mobs/materials/minerals/herbs
 
-9- Aprimoramento do Auto Cultivo
+9- Improved self-cultivation
 
-10- Adicionado skill sender (ja ativado) para desativar basta comentar as 2 linhas entre Skill Sender - Inicio e Skill Sender - Fim
+10- Added skill sender (already activated) to deactivate just comment on the 2 lines between Skill Sender - Start and Skill Sender - End
 
-11- Adicionado Astrolábio (foi feita infusão, nao foi terminado o resto)
+11- Added Astrolabe (infusion has been made, the rest hasn't been finished)
 
 
 
-Tem mais coisa, é só pesquisar "alien" pelo codigo no projeto
+There's more, just search for “alien” in the project code.
